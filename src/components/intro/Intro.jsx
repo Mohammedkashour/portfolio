@@ -11,7 +11,7 @@ const textRef = useRef();
              backDelay:  1500,
              backSpeed:60,
             
-              strings: ["Developer", "Designer", "Content Creator"] 
+              strings: ["Frontend Developer", "Content Creator"] 
             })
     
     }, [])

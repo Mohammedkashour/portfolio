@@ -14,11 +14,11 @@ export default function Testimonials() {
     },
     {
       id: 2,
-      name: "Alex Kalinski",
-      title: "Co-Founder of DELKA",
+      name: "Amanda Whitehead",
+      title: "Co-Founder of BRADLEY LLC",
       img:
-        "https://images.pexels.com/photos/428321/pexels-photo-428321.jpeg?auto=compress&cs=tinysrgb&dpr=2&w=500",
-      icon: "assets/youtube.png",
+      "https://media-exp1.licdn.com/dms/image/C5603AQG3MPsVBsjcoA/profile-displayphoto-shrink_800_800/0/1517792065668?e=1634774400&v=beta&t=umLcJ483Qdl7eIViULq7TIOblKd5HX2Qykr6upRfbTw" ,
+           icon: "assets/linkedin.png",
       desc:
         "Lorem ipsum dolor sit amet consectetur adipisicing elit. Placeat magnam dolorem recusandae perspiciatis ducimus vel hic temporibus. ",
       featured: true,
